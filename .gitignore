@@ -1,0 +1,9 @@
+# Secrets and local environments
+.env
+**/.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+frontend/firebase-config.js
+.DS_Store
